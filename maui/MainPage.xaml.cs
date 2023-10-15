@@ -1,4 +1,4 @@
-﻿namespace maui {
+﻿namespace tsecret {
     public partial class MainPage: ContentPage {
         int count = 0;
 

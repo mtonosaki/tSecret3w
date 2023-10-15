@@ -1,4 +1,4 @@
-﻿namespace maui {
+﻿namespace tsecret {
     public partial class App: Application {
         public App() {
             InitializeComponent();
