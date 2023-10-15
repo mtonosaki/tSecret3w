@@ -5,7 +5,7 @@
 		<!--<TargetFrameworks>net7.0-android;net7.0-maccatalyst</TargetFrameworks>-->
 		<!-- <TargetFrameworks>$(TargetFrameworks);net7.0-tizen</TargetFrameworks> -->
 		<OutputType>Exe</OutputType>
-		<RootNamespace>tSecret</RootNamespace>
+		<RootNamespace>tsecret</RootNamespace>
 		<UseMaui>true</UseMaui>
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
